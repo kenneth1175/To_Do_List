@@ -1,0 +1,26 @@
+body {
+  background-image: url("images/ToDoListImage.jpg");
+  background-size: cover;
+}
+
+.card {
+  background-color: ;
+}
+
+.card-title,
+.card-action {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+}
+
+textarea:focus,
+input:focus {
+  color: black;
+}
+
+input,
+select,
+textarea {
+  color: black;
+}
